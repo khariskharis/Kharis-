@@ -10,7 +10,7 @@ const calendlyLink = ''
 /*
 Step 8: Adding your logo
 */
-const logoFileName = 'logo.png'
+const logoFileName = ''
 
 
 /*
