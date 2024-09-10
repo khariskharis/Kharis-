@@ -59,10 +59,10 @@ const pageTextColor = '#FFFFFF'
 const formTextColor = '#3f5127'
 
 // Social media: Update the call to action with your own
-const socialMediaCallToAction = 'Find Kharis on social media'
+const socialMediaCallToAction = 'Follow me on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the Party!'
+const waitlistCallToAction = 'Be first to hear the new drop🔥'
 
 // Calendly: Update the calls to action with your own
 const meetingCallToAction = 'Talk to us'
