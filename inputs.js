@@ -32,13 +32,13 @@ const formButtonBackgroundColor = '#3f5127'
 const formButtonTextColor = '#000000' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
-const facebookLink = 'https://facebook.com'
-const instagramLink = 'https://instagram.com'
-const xLink = 'https://x.com/lucaducca'
-const linkedinLink = 'https://linkedin.com'
-const youtubeLink = 'https://www.youtube.com'
-const tiktokLink = 'https://www.tiktok.com'
-const discordLink = 'https://discord.com'
+const facebookLink = ''
+const instagramLink = 'https://www.instagram.com/khxris/'
+const xLink = 'https://x.com/khxris'
+const linkedinLink = ''
+const youtubeLink = 'https://www.youtube.com/@khxris'
+const tiktokLink = 'https://www.tiktok.com/@khariswashere?_t=8pbwxjIXOMr&_r=1'
+const discordLink = ''
 
 // 4. Update header and description texts:
 const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
