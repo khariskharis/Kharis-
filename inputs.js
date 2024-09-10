@@ -41,28 +41,28 @@ const tiktokLink = 'https://www.tiktok.com/@khariswashere?_t=8pbwxjIXOMr&_r=1'
 const discordLink = ''
 
 // 4. Update header and description texts:
-const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
+const headerText = 'All things Kharis!' // One-line description of what you will offer customers
 const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
 
 // 5. Update contact email:
-const contactEmail = 'example@notflix.com'
+const contactEmail = 'prodkharis@gmail.com'
 
 
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
-const pageBackgroundColor = '#FFFFFF'
-const pageTextColor = '#000000'
-const formTextColor = '#000000'
+const pageBackgroundColor = '#000000'
+const pageTextColor = '#FFFFFF'
+const formTextColor = '#FFFFFF'
 
 // Social media: Update the call to action with your own
-const socialMediaCallToAction = 'Find us on social media'
+const socialMediaCallToAction = 'Find Kharis on social media'
 
 // Waitlist: Update the call to action with your own
-const waitlistCallToAction = 'Join the wait-list'
+const waitlistCallToAction = 'Join the Party!'
 
 // Calendly: Update the calls to action with your own
 const meetingCallToAction = 'Talk to us'
