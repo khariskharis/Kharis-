@@ -54,9 +54,9 @@ const contactEmail = 'prodkharis@gmail.com'
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
-const pageBackgroundColor = '#000000'
+const pageBackgroundColor = '#b7d792'
 const pageTextColor = '#FFFFFF'
-const formTextColor = '#FFFFFF'
+const formTextColor = '#3f5127'
 
 // Social media: Update the call to action with your own
 const socialMediaCallToAction = 'Find Kharis on social media'
