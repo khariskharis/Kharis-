@@ -26,10 +26,10 @@ Black HEX color code: #000000
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
 const companyName = 'Kharis'
-const companyNameColor = '#81e087'
+const companyNameColor = '#b7d792'
 
-const formButtonBackgroundColor = '#3f512e'
-const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
+const formButtonBackgroundColor = '#3f5127'
+const formButtonTextColor = '#000000' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
 const facebookLink = 'https://facebook.com'
