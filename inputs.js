@@ -41,8 +41,8 @@ const tiktokLink = 'https://www.tiktok.com/@khariswashere?_t=8pbwxjIXOMr&_r=1'
 const discordLink = ''
 
 // 4. Update header and description texts:
-const headerText = 'Welcome to Planet Kharis' // One-line description of what you will offer customers
-const descriptionText = 'The only rule is there is no rules' // More detailed description of what you will offer customers
+const headerText = 'Kharis' // One-line description of what you will offer customers
+const descriptionText = '' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
@@ -54,7 +54,7 @@ const contactEmail = 'prodkharis@gmail.com'
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
-const pageBackgroundColor = '#b7d792'
+const pageBackgroundColor = 'yee.jpg'
 const pageTextColor = '#FFFFFF'
 const formTextColor = '#3f5127'
 
